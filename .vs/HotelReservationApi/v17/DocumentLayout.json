@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.webapiconsume\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapiconsume\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C83607-9EF1-4111-BA7D-CA479F059102}|NewFolder1{F2C83607-9EF1-4111-BA7D-CA479F059102}|C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\Ad\u0131mlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F2C83607-9EF1-4111-BA7D-CA479F059102}|NewFolder1{F2C83607-9EF1-4111-BA7D-CA479F059102}|solutionrelative:Ad\u0131mlar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:35:10.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ad\u0131mlar.txt",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\Ad\u0131mlar.txt",
+              "RelativeDocumentMoniker": "Ad\u0131mlar.txt",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\Ad\u0131mlar.txt",
+              "RelativeToolTip": "Ad\u0131mlar.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-05T18:33:44.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
