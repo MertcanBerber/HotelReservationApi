@@ -15,3 +15,4 @@ C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\Ap
 C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.pdb
 C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.genruntimeconfig.cache
 C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\ref\HotelProject.DtoLayer.dll
+C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.DtoLayer\obj\Debug\net6.0\HotelProject.DtoLayer.sourcelink.json

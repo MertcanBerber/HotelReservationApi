@@ -17,3 +17,4 @@ C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\Ap
 C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.pdb
 C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.genruntimeconfig.cache
 C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\ref\HotelProject.BusinessLayer.dll
+C:\Users\mert berber\Documents\GitHub\HotelReservationApi\HotelReservationApi\ApiConsume\HotelProject.BusinessLayer\obj\Debug\net6.0\HotelProject.BusinessLayer.sourcelink.json
