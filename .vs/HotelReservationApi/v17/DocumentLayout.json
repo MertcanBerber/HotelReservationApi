@@ -15,8 +15,36 @@
       "RelativeMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapiconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.webapiconsume\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapiconsume\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.webapiconsume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{372E4D6C-34C7-465A-9FC5-79B6A5EBB66A}|ApiConsume\\HotelProject.WebApiConsume\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapiconsume\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3D886C-4E32-47FE-A147-731D35570234}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3D886C-4E32-47FE-A147-731D35570234}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\abstract\\isubscribeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3D886C-4E32-47FE-A147-731D35570234}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3D886C-4E32-47FE-A147-731D35570234}|ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj|solutionrelative:apiconsume\\hotelproject.businesslayer\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\eftestimonialdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efsubscribedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\mert berber\\documents\\github\\hotelreservationapi\\hotelreservationapi\\apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E181F-1494-4BDF-AB1A-0CD1E3C89319}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\entityframework\\efstaffdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApiConsume\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T21:16:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:25:50.484Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,9 +90,87 @@
               "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
               "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
               "RelativeToolTip": "ApiConsume\\HotelProject.WebApiConsume\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T21:32:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:30:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:16:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfSubscribeDal.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfSubscribeDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:35:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfTestimonialDal.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfTestimonialDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:36:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISubscribeService.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\ISubscribeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:40:15.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.BusinessLayer\\Abstract\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:05:01.267Z",
               "EditorCaption": ""
             },
             {
@@ -56,28 +188,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
-              "RelativeToolTip": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\StaffController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAWAAAA",
+              "DocumentIndex": 10,
+              "Title": "EfStaffDal.cs",
+              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\EntityFramework\\EfStaffDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T21:11:29.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoomController.cs",
-              "DocumentMoniker": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
-              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
-              "ToolTip": "C:\\Users\\mert berber\\Documents\\GitHub\\HotelReservationApi\\HotelReservationApi\\ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
-              "RelativeToolTip": "ApiConsume\\HotelProject.WebApiConsume\\Controllers\\RoomController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:35:10.04Z",
+              "WhenOpened": "2024-10-10T20:35:19.517Z",
               "EditorCaption": ""
             }
           ]

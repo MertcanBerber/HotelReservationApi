@@ -1,5 +1,6 @@
 ﻿using HotelProject.BusinessLayer.Abstract;
 using HotelProject.EntityLayer.Concrete;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HotelProject.WebApi.Controllers
@@ -8,7 +9,7 @@ namespace HotelProject.WebApi.Controllers
     [ApiController]
     public class StaffController : ControllerBase
     {
-       private readonly IStaffService _staffService;
+        private readonly IStaffService _staffService;
 
         public StaffController(IStaffService staffService)
         {
@@ -18,7 +19,7 @@ namespace HotelProject.WebApi.Controllers
         [HttpGet]
         public IActionResult StaffList()
         {
-            var values= _staffService.TGetList();
+           var values=_staffService.TGetList();
             return Ok(values);
         }
         [HttpPost]

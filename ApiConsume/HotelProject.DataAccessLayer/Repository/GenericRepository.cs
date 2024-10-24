@@ -9,7 +9,8 @@ using System.Threading.Tasks;
 namespace HotelProject.DataAccessLayer.Repository
 {
     public class GenericRepository<T> : IGenericDal<T> where T : class
-    {private readonly Context _context;
+    { 
+        private readonly Context _context;
 
         public GenericRepository(Context context)
         {
